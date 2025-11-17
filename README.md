@@ -1,4 +1,8 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm MARICA</h1>
+
+- Biomedical Engineer
+- PhD candidate in Oncological Science @Università Cattolica del Sacro Cuore, Rome.
+- My research focuses on developing computational methods to integrate pathology and medical imaging in order to characterize the intra-tumour heterogeneity
 
 <!--
 **aciram7/aciram7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
