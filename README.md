@@ -1,6 +1,13 @@
-- Biomedical Engineer
-- PhD candidate in Oncological Science @Università Cattolica del Sacro Cuore, Rome.
-- My research focuses on developing computational methods to integrate pathology and medical imaging in order to characterize the intra-tumour heterogeneity
+Hi, welcome to my GitHub profile!
+===================================================================================================================================
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marica-vagni/)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=47FL5GkAAAAJ&hl=it)
+
+
+Biomedical Engineer specialized in medical image analysis and machine learning for healthcare.
+PhD candidate in Oncological Sciences at Università Cattolica del Sacro Cuore, Rome.
+My research focuses on integrating pathology and medical imaging through computational methods to study intra-tumour heterogeneity and advance precision oncology.
 
 <!--
 **aciram7/aciram7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
