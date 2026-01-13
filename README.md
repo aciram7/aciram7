@@ -6,7 +6,7 @@ Hi, welcome to my GitHub profile!
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Marica-Vagni?ev=hdr_xprf)
 
 Biomedical Engineer specialized in **medical image analysis** and **machine learning for healthcare**.
-PhD candidate in **Oncological Sciences** at *Università Cattolica del Sacro Cuore*, Rome.
+PhD candidate in **Oncological Science** at *Università Cattolica del Sacro Cuore*, Rome.
 My research focuses on **integrating pathology and medical imaging** through computational methods to study **intra-tumour heterogeneity** and advance precision oncology.
 
 <!--
